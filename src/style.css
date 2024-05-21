@@ -83,7 +83,7 @@ form {
   cursor: pointer;
 }
 .submit-button:hover {
-  background-color: hsl(240, 100%, 80%);
+  background-color: #9999ff;
   border: 1px solid hwb(246 60% 7%);
   color: hwb(0 4% 96%);
   cursor: pointer;
@@ -94,7 +94,7 @@ form {
   padding: 20px;
   line-height: 2;
   border-left: 3px solid #885df1;
-  box-shadow: 0px 4px 30px 0px rgba(39, 33, 66, 0.03);
+  box-shadow: 0px 4px 30px 0px rgba(39, 33, 66, 0.04);
 }
 
 .hidden {
