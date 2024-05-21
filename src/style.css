@@ -82,7 +82,12 @@ form {
   padding: 14px 24px;
   cursor: pointer;
 }
-
+.submit-button:hover {
+  background-color: hsl(240, 100%, 80%);
+  border: 1px solid hwb(246 60% 7%);
+  color: hwb(0 4% 96%);
+  cursor: pointer;
+}
 .recipe {
   font-size: 16px;
   background-color: #fff;
